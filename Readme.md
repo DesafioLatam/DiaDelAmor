@@ -1,9 +1,10 @@
 <section class="cover">
-# Amor por el código
+
 ![Logo Amor por el código](assets/logo_amor.png)
+
 </section>
 
-# Bienvenid@
+# Bienvenid@ al 14 de Febrero con Desafío Latam
 
 Amor por el código es una actividad que nace desde las mentes creativas y vanguardistas de academia Desafío Latam.
 
