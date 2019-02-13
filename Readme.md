@@ -391,7 +391,7 @@ Ya sabemos crear titulares, así que manos a la obra, crearemos 9 titulares `h5`
 
 Si guardas y recargas la página, deberías ver algo similar a esto:
 
-![](./assets/img/Titularesh3.png)
+![](./assets/img/titularesh3.png)
 
 ### Párrafos y Lorem ipsum.
 
