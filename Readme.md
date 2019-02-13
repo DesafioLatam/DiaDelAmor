@@ -1,11 +1,7 @@
 <section class="cover">
-
 # Amor por el código
-
 ![Logo Amor por el código](assets/logo_amor.png)
-
 </section>
-<section>
 
 # Bienvenid@
 
@@ -45,7 +41,7 @@ Como editor de texto te recomendamos:
 
 ## ¿Qué es una página web?
 
-Si buscamos en google, posiblemente encontremos desde respuestas muy complejas a que la respuesta esta en nuestro corazón, así que definiremos de forma muy simple algunos términos.
+Si buscamos en Google, posiblemente encontremos desde respuestas muy complejas a que la respuesta esta en nuestro corazón, así que definiremos de forma muy simple algunos términos.
 
 
 ***WebPage (página web):*** Es un documento que puede ser visto en la pantalla a través de un navegador como Firefox, Google Chrome, Internet Explorer. Solo es un documento.
@@ -68,7 +64,7 @@ Vamos a crear un proyecto totalmente desde cero, sigue los pasos y si tienes dud
 
 ### Primer paso :
 
-Vamos a crear una carpeta nueva en el escritorio. Le puedes llamar como tu quieras, como ejemplo "proyecto web".
+Vamos a crear una carpeta nueva en el Escritorio. Le puedes llamar como tu quieras, como ejemplo "proyecto web".
 
 ### Segundo paso:
 
@@ -104,7 +100,7 @@ Ahora escribiremos, en nuestro archivo:
 Feliz día del amor !!!
 ~~~
 
-Luego guardamos el archivo, para hacerlo puedes ir a la opción File / save, pero te recomiendo que utilizes el atajo del teclado.
+Luego guardamos el archivo, para hacerlo puedes ir a la opción File / save, pero te recomiendo que utilices el atajo del teclado.
 
 ***Ctrl + s (Windows, Linux) o  cmd + s (mac).***
 
@@ -121,7 +117,7 @@ Al abrirlo en el navegador te debería aparecer algo como esto:
 
 ### Recapitulemos
 
-Fueron solo 5 pasos, mucho mas fácil que hacer una piscola, ¿cierto?.
+Fueron solo 5 pasos, mucho más fácil que hacer una piscola, ¿cierto?.
 
 Respondamos algunas preguntas.
 
@@ -129,9 +125,9 @@ Respondamos algunas preguntas.
 
 Porque es una convención, se subentiende que es el archivo índice que inicia una página web.
 
-***¿Por qué la extension del archivo es .html?***
+***¿Por qué la extensión del archivo es .html?***
 
-El que sea .html dice que es un archivo que se interpretará como HTML, es decir el navegador abrirá y leerá su contenido, En la siguiente sección aprenderemos mas sobre HTML.
+El que sea .html dice que es un archivo que se interpretará como HTML, es decir el navegador abrirá y leerá su contenido, En la siguiente sección aprenderemos más sobre HTML.
 
 Ahora podemos crear una página web para declarar nuestro amor.
 
@@ -149,91 +145,15 @@ HTML es un lenguaje de **marcas**, cada una comenzando con `<` y terminando con 
 
 Entonces una página web es un archivo que contiene un conjunto de marcas ó etiquetas y el navegador lee (interpreta) estas marcas y con esa información  muestra las páginas web.
 
-# ~~Conozcamonos~~ Trabajemos.
+# ~~Conozcámonos~~ Trabajemos.
 
-Reunanse en parejas, si, no sean timid@, estamos acá para conocer gente y aprender.
+Reúnanse en parejas, si, no sean timid@, estamos acá para conocer gente y aprender.
 
 Una vez reunidos, vamos a construir  un sitio con el  perfil de tu compañer@. Vamos a añadir alguna foto, por lo cual cada uno deberá facilitar sacarse una o bajarla de la red social.
 
-Si viniste con tu pareja y todos estos datos ya son conocidos, Celebremos el amor y creemos una oda a la persona que tenemos a nuestro lado, Una página con su descripciones y gustos, o simplemente porque la aman tanto,  o sus mas oscuros deseos etc... seamos creativos.
+Si viniste con tu pareja y todos estos datos ya son conocidos, Celebremos el amor y creemos una oda a la persona que tenemos a nuestro lado, Una página con su descripciones y gustos, o simplemente porque la aman tanto,  o sus más oscuros deseos etc... seamos creativos.
 
-Si por algún motivo no alcanzamos a tener compañer@, no te preocupes, crea tu propio perfil, demostrando que eres mas cool y que amas el código y a ti,  mas que el whiskey al hielo.
-
-#### Primer paso :
-
-Vamos a crear una carpeta nueva en el escritorio. Le puedes llamar como tu quieras, como ejemplo **"proyecto web"**, **"recuerdos"** etc.
-
-#### Segundo paso:
-
-Luego abriremos la carpeta en **Atom** (o el editor de texto que estes ocupando).
-
-- Puede ser arrastrando la carpeta hacia el editor de texto
-- O abriéndola desde el editor de texto.
-
-#### Tercer paso:
-
-Ahora crearemos un archivo nuevo llamado `index.html` (debemos presionar sobre la carpeta del proyecto con el botón secundario y utilizar la opción "New File").
-
-![new file con Atom](./assets/img/New_file_atom.png)
-
-Luego:
-
-Nombraremos a nuestro primer archivo `index.html`
-
-
-![imagen de Atom con index.html](./assets/img/Nuevo_archivo_Atom.png)
-
-Presionamos *enter* y el archivo quedará guardado como **index.html**
-
-#### Cuarto Paso:
-
-Ahora escribiremos dentro de nuestro archivo algún texto, como por ejemplo:
-
-```html
-Mi primera página web. :D
-```
-
-Luego guardamos el archivo, para hacerlo puedes ir a la opción `File / save`, pero se recomienda utilizar el atajo del teclado.
-
-***Ctrl + s (Windows, Linux) o  cmd + s (mac).***
-
-#### Quinto paso
-
-Ahora podemos abrir este archivo con nuestro navegador, para lograrlo iremos a la carpeta donde está guardado y podemos arrastrarlo con el mouse dentro del navegador, o hacerle doble click.
-
-Al abrirlo en el navegador te debería aparecer algo como esto:
-
-![imagen feliz día del](./assets/img/FirstPage.png)
-
-***Felicidades  !!!Ya estás escribiendo tú primera página web!!!*** Aún no tiene el aspecto esperado y aparecen algunos carácteres extraños, pero vamos paso a paso.
-
-### Recapitulemos
-
-Fueron sólo 5 pasos, fácil ¿cierto?.
-
-Respondamos algunas preguntas.
-
-***¿Por qué llamar al archivo de inicio como index?***
-
-Porque es una convención, se subentiende que es el archivo índice que inicia una página web.
-
-***¿Por qué la extensión del archivo es .html?***
-
-El que sea *.html* dice que es un archivo que se interpretará como HTML, es decir el navegador abrirá y leerá su contenido, en la siguiente sección aprenderemos más sobre HTML.
-
-## ¿Qué es HTML?
-
-HTML significa "HyperText Markup Language" - en español, **Lenguaje de Marcas** de HyperTexto.
-
-**HyperText** significa que es un tipo de texto que soporta hipervínculos entre páginas.
-
-**Marcado** significa que hemos tomado un documento y lo marca con código para decirte cómo interpretar la página (en este caso, un navegador).
-
-HTML es un lenguaje de **marcas**, cada una comenzando con `<` y terminando con `>`. Estas etiquetas definen **propiedades**, la **importancia** y el **significado semántico** del contenido que envuelven.
-
-![imagen HTML lenguaje de marcas](./assets/img/html_marcas.png)
-
-Entonces una página web es un archivo que contiene un conjunto de marcas ó etiquetas y el navegador lee (interpreta) estas marcas y con esa información  muestra las páginas web.
+Si por algún motivo no alcanzamos a tener compañer@, no te preocupes, crea tu propio perfil, demostrando que eres más cool y que amas el código y a ti,  más que el whiskey al hielo.
 
 ##  ¿Qué es la Estructura HTML?
 
@@ -314,7 +234,7 @@ Si guardamos, y recargamos el navegador, el resultado será el siguiente:
 >El título tiene mucho valor en el SEO(search engine optimization) de un sitio web, esto quiere decir que los títulos son importantes para posicionar una página en un buscador.
 
 ### Eliminando caracteres extraños
-Como recuerdan, nuestro primer mensaje tenía carácteres extraños donde se deberían mostrar tíldes o letras Ñ. Esto se arregla con la etiqueta `<meta charset="utf-8">`. Esta indica que la codificación de la página muestre estos carácteres.
+Como recuerdan, nuestro primer mensaje tenía carácteres extraños donde se deberían mostrar tildes o letras Ñ. Esto se arregla con la etiqueta `<meta charset="utf-8">`. Esta indica que la codificación de la página muestre estos carácteres.
 
 También podemos ver que hay algo nuevo que no habíamos visto en otras etiquetas, en primer lugar la marca no se cierra, esto ocurre por una regla simple, si la etiqueta no tiene contenido, no se cierra, y para pasarle valores adicionales se ocupan **atributos** y **valores**, en este caso `charset` sería el *atributo* y `utf-8` el *valor*.
 
@@ -372,7 +292,7 @@ Deberíamos ver algo como esto:
 
 > En tu caso utilizaremos el titular `<h1>TU_NOMBRE y NOMBRE_COMPADER@  celebrando el amor por el código</h1>`
 
-Aun estamos muy lejos de la página que queremos lograr, pero vamos avanzando.
+Aún estamos muy lejos de la página que queremos lograr, pero vamos avanzando.
 
 ### Quiebre de línea con `<br>`
 
@@ -421,7 +341,7 @@ Este cambio, por el momento, no supondrá ningún cambio visual.
 
 ## Continuando con la página.
 
-Para los siguientes pasos, nos fijaremos en la página de muestra. Luego de los títulos, vienen varias tarjetas con una foto, un títular y un párrafo, aprenderemos a crear estos elementos.
+Para los siguientes pasos, nos fijaremos en la página de muestra. Luego de los títulos, vienen varias tarjetas con una foto, un titular y un párrafo, aprenderemos a crear estos elementos.
 
 > En este momento comenzaremos a construir la página de nuestr@ compañer@. Vamos a conversar un rato y preguntarle sus intereses, hobbies, trabajo, etc. Lo que quieras, el objetivo es ~~conocer bien~~ armar un sitio interesante para el otro. Si son pareja, quizás es el momento de contarse los secretos ocultos (si es que aún quedan) o recopilar los momentos más divertidos de la relación.
 
@@ -640,7 +560,7 @@ proyecto_web
 
 * Las imágenes puede ser formato jpg, png, jpeg. Es importante que las imágenes estén dentro de la carpeta img, para luego poder buscarlas en esa ruta.
 
-En mi caso, yo tengo todas las imágenes que añadire en la página, si quieren utilizar estas mismas, las pueden descargar de [Acá](https://www.dropbox.com/sh/bhrvh94llnizj6j/AACxQwwFN1uWGIr6uMdg1_Yja?dl=0).
+En mi caso, yo tengo todas las imágenes que añadiré en la página, si quieren utilizar estas mismas, las pueden descargar de [Acá](https://www.dropbox.com/sh/bhrvh94llnizj6j/AACxQwwFN1uWGIr6uMdg1_Yja?dl=0).
 
 >Le puedes pedir a tu compañer@ que te comparta sus imágenes favoritas o que te ayude a descargarlas de Internet
 
@@ -649,7 +569,7 @@ Si descargan esta carpeta, deben añadirla en `assets/img`, su carpeta debería 
 ![](./assets/img/imgdirectory.png)
 
 
-Ya con las fotos incorporadas, voy añadir las primeras, luegos ustedes ya sabrán como hacer el resto. Mi código está así:
+Ya con las fotos incorporadas, voy añadir las primeras, luego ustedes ya sabrán como hacer el resto. Mi código está así:
 
 ```html
 <!DOCTYPE html>
@@ -1210,7 +1130,7 @@ Luego en el archivo CSS
 }
 ```
 
-Para referirse a las clases se se escribe un `. ` y luego el nombre que le diste a la clase en este caso `.violeta`
+Para referirse a las clases se escribe un `. ` y luego el nombre que le diste a la clase en este caso `.violeta`
 Con esto hago que dos etiquetas distintas (o cuantas yo quiera), tengan el contenido de color violeta.
 
 ### Asignando clases a nuestro proyecto
@@ -1238,7 +1158,7 @@ Ingresaremos una clase a esta etiqueta `container`
   <div class="row">
 ```
 
-Ingresaremos la clases `row` a esta estiqueta que envuelve todos los otros divs.
+Ingresaremos la clases `row` a esta etiqueta que envuelve todos los otros divs.
 	
 4. El div que agrupa 3 tarjetas llevará la siguiente clase:
 	
@@ -1246,7 +1166,7 @@ Ingresaremos la clases `row` a esta estiqueta que envuelve todos los otros divs.
 	<div class="col-md-4">
 ```
  
- Ingresamos la clases `col-md-4` a esta estiqueta.
+ Ingresamos la clases `col-md-4` a esta etiqueta.
 
 Si añadiste todas las etiquetas de forma correcta tu código debería verse así:
 
@@ -1361,7 +1281,7 @@ body{
 
 ### Googlefonts 
 
-Vamos a utilizar googleFonts para nuestras tipografías:
+Vamos a utilizar Google Fonts para nuestras tipografías:
 [https://www.google.com/fonts](https://fonts.google.com/)
 
 Es una página web que permite cargar de forma sencilla diversas tipografías no tan comunes dentro de tu sitio.
